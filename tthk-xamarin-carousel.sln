@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tthk-xamarin-carousel.Android", "tthk-xamarin-carousel.Android\tthk-xamarin-carousel.Android.csproj", "{58C3AC12-C266-41A1-8845-8A50161ECAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tthk-xamarin-carousel", "tthk-xamarin-carousel\tthk-xamarin-carousel.csproj", "{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C3AC12-C266-41A1-8845-8A50161ECAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C3AC12-C266-41A1-8845-8A50161ECAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C3AC12-C266-41A1-8845-8A50161ECAC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{58C3AC12-C266-41A1-8845-8A50161ECAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C3AC12-C266-41A1-8845-8A50161ECAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C3AC12-C266-41A1-8845-8A50161ECAC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDD1DDC-7A78-4D31-8ADA-4DABD9EDF8AB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C2FB9C-A80F-4FE6-9B6C-AB4A7EEB702A}
+	EndGlobalSection
+EndGlobal

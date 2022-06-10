@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <style name="MainTheme" parent="MainTheme.Base">
+    <item name="colorPrimary">#ffb300</item>
+    <item name="colorPrimaryDark">#c68400</item>
+    <item name="colorAccent">#ffb300</item>
+  </style>
+  <style name="AppCompatDialogStyle" parent="Theme.AppCompat.Light.Dialog">
+    <item name="colorAccent">#ffb300</item>
+  </style>
+</resources>
